@@ -40,7 +40,7 @@ Kigali Eats Fresh Store — No-Code E-Commerce Website
 ![Contact](images/contact.png)
 
 ## 🌐 Live Website
-[Visit Kigali Eats Fresh Store](https://kun7.wixsite.com/your-store-name)
+[Visit Kigali Eats Fresh Store](https://clementineiradukun7.wixsite.com/my-site-4)
 
 ## 💻 GitHub Repository
 [View on GitHub](https://github.com/belyse123/Kigali-eats-fresh-store)
